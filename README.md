@@ -57,15 +57,13 @@ source ~/.config/fish/config.fish
 After running the installer once, the user only needs to run:
 
 ```bash
-sudo crowl
+crowl
 ```
 
-(`sudo` is recommended so `nmap` can perform ARP/ping scans that return MAC addresses; behavior may vary without root privileges.)
-
-You can also run the script directly without installing:
+You can also run the script directly without installing (you must to be in the repo cloned directory):
 
 ```bash
-sudo ./crowl.sh
+ ./crowl.sh
 ```
 
 ---
