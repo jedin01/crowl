@@ -1,7 +1,4 @@
-Perfeito — aqui está o **README.md** final, pronto para colocar no repositório. Ele assume que o usuário executa `./install.sh` uma vez e depois só precisa rodar `crowl`.
-
-````markdown
-# Network Device Scanner (Bash + nmap)
+# Crowl
 
 A lightweight Bash tool that scans the local network (the same LAN your device is connected to) and lists discovered devices with:
 
