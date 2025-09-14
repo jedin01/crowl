@@ -32,8 +32,8 @@ The repository contains only two files: `crowl.sh` (main script) and `install.sh
 Clone the repository, make the installer executable and run it:
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/jedin01/crowl.git
+cd crowl
 chmod +x install.sh
 ./install.sh
 ````
